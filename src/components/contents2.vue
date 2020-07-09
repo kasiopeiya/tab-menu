@@ -1,0 +1,16 @@
+<template>
+  <div>
+    <p>2こ目のコンテンツ</p>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "contents2",
+  props: {}
+};
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+</style>
